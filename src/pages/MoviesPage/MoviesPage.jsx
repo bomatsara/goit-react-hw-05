@@ -51,7 +51,7 @@ export default function MoviesPage() {
         {movies.length > 0 ? (
           <MoviesList movies={movies} />
         ) : (
-          search && <p>No films with this title were found</p>
+          (search && !loading) && <p>No films with this title were found</p>
         )}
       </div>
     </Section>
