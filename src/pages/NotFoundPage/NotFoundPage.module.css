@@ -1,0 +1,16 @@
+.wrap {
+    text-align: center;
+}
+
+.title {
+    font-size: 300px;
+    font-weight: 700;
+    color: var(--color-link);
+    margin-bottom: 30px;
+    line-height: 1;
+}
+
+.text {
+    font-size: 40px;
+    margin-bottom: 30px;
+}

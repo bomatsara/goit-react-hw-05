@@ -1,0 +1,33 @@
+.actor-card {
+    .actor-card-image {
+        margin-bottom: 15px;
+
+        img {
+            border-radius: 5px;
+            height: 320px;
+            object-fit: cover;
+            object-position: top;
+        }
+
+        .image-stub {
+            height: 320px;
+            border-radius: 5px;
+            background-color: var(--color-grey);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            .icon {
+                font-size: 100px;
+                color: #ffffff;
+            }
+        }
+    }
+
+    .actor-card-name {
+        font-size: 18px;
+        font-weight: 700;
+        text-align: center;
+
+    }
+}

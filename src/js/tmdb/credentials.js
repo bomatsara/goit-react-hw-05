@@ -1,0 +1,6 @@
+const credentials = {
+  key: 'ec5b287c28fec5252068276440384cf3',
+  access_key: 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlYzViMjg3YzI4ZmVjNTI1MjA2ODI3NjQ0MDM4NGNmMyIsIm5iZiI6MTcyMDU5ODY2MS43MTY5ODgsInN1YiI6IjY2OGQ3MjcxZWFhZmFlNTVhZWFlMGZiNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.7mW-qsbz0qm8jEPrExF9X6L8An_ZvDFKTiIfm0GezMA'
+}
+
+export default credentials;
